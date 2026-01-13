@@ -81,4 +81,7 @@ python keylogger.py
 
 git clone https://github.com/TheSpeedX/TBomb
 cd TBomb
+
 bash TBomb.sh
+
+MOBİL HALİ DAHA SONRA GELECEK
