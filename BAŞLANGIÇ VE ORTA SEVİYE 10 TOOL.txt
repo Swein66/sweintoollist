@@ -1,0 +1,84 @@
+
+1. Nmap – Ağ Tarama & Port Scan
+
+pkg update && pkg install nmap -y
+nmap 192.168.1.1
+
+
+2. Hydra – Brute-force saldırı aracı
+
+pkg install hydra -y
+hydra -l admin -P passwords.txt ftp://192.168.1.1
+
+
+
+3. Metasploit Framework – Exploit & Pentest Framework
+
+pkg install unstable-repo
+pkg install metasploit -y
+msfconsole
+
+
+
+4. Weeman – Fake Login Sayfası Oluşturucu
+
+git clone https://github.com/evait-security/weeman
+cd weeman
+python2 weeman.py
+
+> Gereksinim: pkg install python2
+
+
+
+
+5. PhoneInfoga – Telefon Numarasından Bilgi Toplama
+
+git clone https://github.com/sundowndev/phoneinfoga
+cd phoneinfoga
+python3 phoneinfoga.py -n +905XXXXXXXXX
+
+> Gereksinim: pip install -r requirements.txt
+
+
+
+
+6. Social-Engineer Toolkit (SET)
+
+pkg install root-repo
+pkg install git python
+git clone https://github.com/trustedsec/social-engineer-toolkit
+cd social-engineer-toolkit
+pip install -r requirements.txt
+python setup.py
+
+
+
+7. IP Tracker (IPLokator)
+
+git clone https://github.com/maldevel/IPGeolocation
+cd IPGeolocation
+chmod +x ipgeolocation.py
+python3 ipgeolocation.py -t 8.8.8.8
+
+
+
+8. SayCheese – Kamera Erişim Tuzağı
+
+git clone https://github.com/hangetzzu/saycheese
+cd saycheese
+bash saycheese.sh
+
+
+
+9. Keylogger (Android) – Fiziksel cihazlarda denenmelidir
+
+git clone https://github.com/D4Vinci/pykeylogger
+cd pykeylogger
+python keylogger.py
+
+
+10. TBomb – SMS & Call Bomber
+
+git clone https://github.com/TheSpeedX/TBomb
+cd TBomb
+bash TBomb.sh

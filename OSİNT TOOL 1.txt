@@ -1,0 +1,63 @@
+Kapsamlı ve işe yarar her türlü osint toolları ve siteleri
+
+1) Maltego
+Hepimizin bildiği işe yarar analiz aracı
+https://www.maltego.com/
+
+2) SpiderFoot
+Onlarca kaynaktan bilgi toplayıp getiriyor taş gibi araç
+https://github.com/smicallef/spiderfoot
+
+3) Creepy
+Fotoğrafların konumunu bulan araç(bi tık eski)
+https://github.com/ilektrojohn/creepy
+Alternatiflerinin olduğu repo
+https://github.com/The-Osint-Toolbox/Geolocation-OSINT
+
+4) Sherlock
+Username bilgisi ile sosyal medya hesaplarını bulur son zamanlarda düzgün çalışmıyor diye biliyorum
+https://github.com/sherlock-project/sherlock
+
+5) Maigret
+Sherlock'un gelişmiş versiyonu
+https://github.com/krishpranav/maigret
+
+6) Sponbill
+Twitter kullanıcısını izlemeyi sağlar bio değişikleri paylaşımları vs.
+https://spoonbill.io/
+
+7) Holehe
+Email adresinin nerelere kayıt olduğunu bulur
+https://github.com/megadose/holehe
+
+8) Epieos
+Email hesabının sahibinin bilgilerini bulur
+https://epieos.com/
+
+9) Have I Been Pwned
+Email adresinin sızıntılarda geçip geçmediğini kontrol eder
+https://haveibeenpwned.com/
+
+10) Suncalc
+Gün ışığında çekilmiş bir fotoğrafınız varsa konum ve saat tahmini yapmak için bu siteyi kullanabilirsiniz
+https://www.suncalc.org/
+
+11) Geospy
+Fotoğraftan görsel bulmanın gelişmiş versiyonu
+https://geospy.ai/
+
+12) Metagoofil
+Belgelerin metadata bilgisini çıkarır
+https://github.com/opsdisk/metagoofil
+
+13) GrayHatWarFare
+Açık s3 bucketları bulut
+https://grayhatwarfare.com/
+
+14) TinEye
+Görselin internetteki diğer kopyalarını bulur
+https://tineye.com/
+
+15)
+https://inteltechniques.com/tools/Breaches.html
+evrenın en ıyı osınt sitesi

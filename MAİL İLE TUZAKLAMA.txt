@@ -1,0 +1,17 @@
+Aşağıdaki siteye kayıt oluyoruz.
+
+
+https://www.readnotify.com//
+
+
+Amaç: readnotify.com aracılığıyla kişiye tuzaklı mail göndermek. Kişinin mail adresini alın. Tuzaklı maili gönderirken sonuna .readnotify.com ekleyin kurbanın.
+
+ 
+
+ÖRN:
+
+"kurban@kurban.com.readnotify.com"
+
+ 
+
+Kurban e postayı açarsa ip adresi elinize düşecek. İyi Forumlar.

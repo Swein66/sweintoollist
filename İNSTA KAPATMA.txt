@@ -1,0 +1,52 @@
+Bir TG Buldum Benim TG Olmadığı İçin Guvenmedim Yinenede Atım Siz Bakın Buda :
+
+https://t.me/instarepo
+
+Bide Termux Var Onunda Vereyim
+
+
+Kod:
+
+pkg install update
+Kod:
+
+pkg install upgrade
+Kod:
+
+pkg install git
+Kod:
+
+pkg install python
+Kod:
+
+pkg install python2
+Kod:
+
+pkg install python3
+Kod:git clone GitHub - cybuly/instaspam: İnstagram Spam Bot
+Kod:
+ls
+Kod:
+
+cd instaspam
+Kod:
+
+chmod +x *
+Kod:
+
+pip install --upgrade pip
+Kod:
+
+pip install colorama
+Kod:
+
+python - m pip install colorama
+Kod:
+
+pip install requests
+Kod:
+
+python - m pip install requests
+Kod:
+
+python3 spambot.py

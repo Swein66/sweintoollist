@@ -1,0 +1,70 @@
+QR Kod Nedir?
+
+QR (Quick Response) kod, iki boyutlu bir barkod türüdür. Japonya'da 1994 yılında geliştirilmiştir ve kısa sürede özellikle mobil cihazlar için hızlı veri iletimi sağlayan bir araç haline gelmiştir.
+
+QR kodlar, web sitesi linkleri, ödeme bilgileri, Wi-Fi bağlantıları veya metin gibi bilgileri depolayabilir.
+Kullanıcılar telefon kameraları veya QR tarayıcı uygulamaları ile kodu tarayarak içeriğe erişebilir.
+Hayatımıza restoran menüleri, e-faturalar, toplu taşıma biletleri ve promosyon kampanyaları aracılığıyla girmiştir.
+
+
+2. Quishing Nedir?
+
+Quishing, QR kodlar üzerinden gerçekleştirilen kimlik avı (phishing) saldırılarına verilen isimdir. Kullanıcılar, sahte QR kodları taradıklarında, genellikle bankacılık, ödeme veya sosyal medya giriş sayfalarına benzeyen sahte sitelere yönlendirilir. Bu saldırılar fiziksel dünyada (restoran masaları, ürün paketleri, toplu taşıma durakları gibi) veya dijital platformlarda (sosyal medya, e-posta) gerçekleşebilir.
+
+vQceAc0.jpegrBst4Fk.jpeg
+Türkiyede gerçekleşmiş QR Kod saldırısı yöntemlerinden bir örnek
+
+
+3. Quishing Saldırı Akışı (Doğru Sıralama)
+
+Sahte QR Kod Oluşturma: Saldırgan, gerçek bir siteyi taklit eden veya zararlı içeriğe yönlendiren URL'yi içeren QR kod üretir.
+
+Sahte QR Kodun Hedefe Yerleştirilmesi: Bu kod, restoran masalarına, afişlere, toplu taşıma duraklarına, e-posta adreslerine veya sosyal medyada paylaşılır.
+
+Kullanıcının QR Kodu Taraması: Kullanıcı, farkında olmadan sahte QR kodu tarar.
+
+Sahte Siteye Yönlendirme: Kullanıcı, sahte ve genellikle gerçek siteye çok benzeyen bir web sitesine yönlendirilir.
+
+Bilgi Girişi ve Veri Hırsızlığı: Kullanıcı, siteye kullanıcı adı, şifre, kredi kartı gibi bilgilerini girer ve bu bilgiler saldırganın eline geçer.
+
+(Opsiyonel) Zararlı Yazılım İndirme: Bazı saldırılarda, kullanıcı farkında olmadan zararlı yazılım indirilir veya cihazda kötü amaçlı işlemler başlatılır.
+
+4. Gerçek Dünya Örnekleri
+
+Restoran Menüsü Truva Atı (ABD, 2022): Sahte QR kodlar gerçek menülere yapıştırıldı. Kullanıcılar ödeme bilgilerini sahte sitelere girdi.
+
+Toplu Taşıma Kioskları: QR kodlu bilet noktalarına yerleştirilen sahte kodlar, yolcuların kişisel bilgilerini çaldı.
+
+Bankacılık ve E-Fatura (Türkiye, 2023): Sosyal medya üzerinden gönderilen sahte QR kodlar ile kullanıcılar sahte ödeme sitelerine yönlendirildi.
+
+
+5. Teknik Detaylar ve İleri Düzey Notları
+
+URL Kısaltma ve Homoglyph Domainler: Saldırganlar, URL kısaltma servisleri veya görsel olarak benzer harflerden oluşan domainler kullanarak kullanıcıları kandırır.
+
+HTTPS Sertifikası Kullanımı: Sahte sitelerde geçerli HTTPS sertifikaları kullanılarak kullanıcı güveni artırılır.
+
+Dinamik QR Kodlar: Bazı QR kodlar, tarandıkça farklı URL'lere yönlendirebilir, bu da tespiti zorlaştırır.
+
+Otomatik İşlemler: QR kod tarandığında otomatik SMS gönderme, e-posta başlatma veya Wi-Fi ağına bağlanma gibi işlemler tetiklenebilir.
+
+Zararlı Yazılım Dağıtımı: Özellikle Android cihazlarda, QR kod aracılığıyla zararlı APK dosyalarının indirilmesi sağlanabilir.
+
+6. Riskler
+
+Kimlik ve kredi kartı bilgisi hırsızlığı
+Mobil cihazlara zararlı yazılım bulaşması
+Sosyal mühendislik ile daha geniş çaplı dolandırıcılık
+Kurumsal bilgiler ve IP tabanlı erişimlerin ele geçirilmesi
+
+7. Korunma Yöntemleri
+
+URL Önizlemesi: QR kodu taramadan önce URL'yi dikkatlice kontrol edin. Çoğu kamera uygulaması ve QR kod okuyucu, URL önizleme özelliği sunar.
+Güvenilmeyen Kaynaklardan Kaçının: Sosyal medya, bilinmeyen posterler veya halka açık alanlarda rastgele bulunan QR kodları taramayın.
+Resmi Uygulamaları Kullanın: Banka ve devlet işlemlerini sadece resmi uygulamalar veya web siteleri üzerinden gerçekleştirin.
+Güvenlik Yazılımları: Mobil cihazlarda antivirüs ve güncel güvenlik yazılımları kullanın.
+Fiziksel Kontrol: QR kodun güvenilir bir kaynaktan geldiğini doğrulamadan taramayın.
+URL'yi Doğrulama: URL'deki küçük farklılıklara (harf değişiklikleri, ekstra karakterler) dikkat edin.
+
+8. Sonuç
+QR kodlar hayatımızı kolaylaştırırken, siber suçlular için yeni ve etkili bir saldırı vektörü haline gelmiştir. Quishing saldırıları, hem dijital hem de fiziksel dünyada ciddi riskler taşır. Kullanıcı farkındalığı, basit kontroller ve güvenli uygulamalar ile bu riskler büyük ölçüde azaltılabilir.
